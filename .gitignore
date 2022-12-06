@@ -1,0 +1,12 @@
+data/.fabric/
+data/libraries/
+data/logs/
+data/world/
+data/versions/
+
+data/fabric-server-mc.1.19.2-loader.0.14.11-launcher.0.11.1.jar
+data/usercache.json
+data/banned-ips.json
+data/banned-players.json
+data/ops.json
+data/whitelist.json
