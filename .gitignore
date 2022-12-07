@@ -11,5 +11,9 @@ data/banned-players.json
 data/ops.json
 data/whitelist.json
 
+data/config/
+data/mods/
+data/not-enough-crashes/
+
+!data/config/luckperms/
 data/config/luckperms/translations/
-data/mods/luckperms/
