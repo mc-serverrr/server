@@ -10,6 +10,7 @@ services:
     environment:
       EULA: 'TRUE'
       TYPE: 'FABRIC'
+      VERSION: '1.19.2'
       MEMORY: '2G'
     tty: true
     stdin_open: true
