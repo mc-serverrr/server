@@ -10,3 +10,6 @@ data/banned-ips.json
 data/banned-players.json
 data/ops.json
 data/whitelist.json
+
+data/config/luckperms/translations/
+data/mods/luckperms/
